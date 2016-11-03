@@ -1,0 +1,998 @@
+User name\log	information				\date
+
+admin2\	admission student 'asdf sdfec'	\23 Jul,2015
+Mr. Admin\	admission student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	admission student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	delete student ''	\23 Jul,2015
+Mr. Admin\	enroll student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	enroll student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	delete student ''	\23 Jul,2015
+Mr. Admin\	admission student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	edit student 'Jackson Jim'	\23 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai1'	\23 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai1'	\23 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai1'	\23 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai1'	\23 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai28'	\23 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai28'	\23 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai28'	\23 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai28'	\23 Jul,2015
+Mr. Admin\	delete student ''	\23 Jul,2015
+Mr. Admin\	admission student 'adfadsf dddd'	\24 Jul,2015
+Mr. Admin\	enroll student 'adfadsf dddd'	\24 Jul,2015
+Mr. Admin\	add class 'math'	\24 Jul,2015
+Mr. Admin\	delete class ''	\24 Jul,2015
+Mr. Admin\	add service 'uniform'	\24 Jul,2015
+Mr. Admin\	edit service 'Uniform'	\24 Jul,2015
+Mr. Admin\	delete service 'Uniform'	\24 Jul,2015
+Mr. Admin\	admission student 'George Jim'	\24 Jul,2015
+Mr. Admin\	edit student 'George Jim'	\24 Jul,2015
+Mr. Admin\	enroll student 'George Jim'	\24 Jul,2015
+Mr. Admin\	update class 'Preschool1'	\24 Jul,2015
+Mr. Admin\	update class 'Preschool'	\24 Jul,2015
+Mr. Admin\	add class 'Math'	\24 Jul,2015
+Mr. Admin\	delete class ''	\24 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai25'	\24 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai25'	\24 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai25'	\24 Jul,2015
+Mr. Admin\	delete student ''	\24 Jul,2015
+Mr. Admin\	admission student 'tt ll'	\25 Jul,2015
+Mr. Admin\	admission student 'lll ttt'	\28 Jul,2015
+Mr. Admin\	edit student 'tt ll'	\28 Jul,2015
+Mr. Admin\	admission student 'Jackson ll'	\28 Jul,2015
+Mr. Admin\	edit student 'lll ttt'	\28 Jul,2015
+Mr. Admin\	edit student 'lll ttt'	\28 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai31'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai30'	\30 Jul,2015
+Mr. Admin\	delete student ''	\30 Jul,2015
+Mr. Admin\	delete student ''	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\30 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	admission student 'asdf sdfec'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'asdf sdfec'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	delete student ''	\31 Jul,2015
+Mr. Admin\	admission student 'asdf Jim'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai'	\31 Jul,2015
+Mr. Admin\	enroll student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	edit student 'Jackson ll'	\31 Jul,2015
+Mr. Admin\	delete student ''	\31 Jul,2015
+Mr. Admin\	delete student ''	\31 Jul,2015
+Mr. Admin\	admission student 't l'	\31 Jul,2015
+Mr. Admin\	add service 'Enrollment Fee'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai1'	\31 Jul,2015
+Mr. Admin\	add discount to invoice '#tsiai1'	\31 Jul,2015
+Mr. Admin\	delete student ''	\31 Jul,2015
+Mr. Admin\	admission student 'George Kennedy'	\31 Jul,2015
+Mr. Admin\	edit student 'George Kennedy'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai1'	\31 Jul,2015
+Mr. Admin\	add service to invoice '#tsiai1'	\31 Jul,2015
+Mr. Admin\	admission student 'George Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Tang Ly'	\03 Aug,2015
+Mr. Admin\	admission student 'Tang Ly'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	edit student 'Tang Ly'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'George Kennedy'	\03 Aug,2015
+Mr. Admin\	edit student 'George Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'George Jame'	\03 Aug,2015
+Mr. Admin\	edit student 'George Jame'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	edit student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	delete student ''	\03 Aug,2015
+Mr. Admin\	add class 'Grade 3'	\03 Aug,2015
+Mr. Admin\	delete class ''	\03 Aug,2015
+Mr. Admin\	enroll student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\03 Aug,2015
+Mr. Admin\	enroll student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	enroll student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	enroll student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	enroll student 'Jackson Kennedy'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai1'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\03 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service 'uniform'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\04 Aug,2015
+Mr. Admin\	add service 'Enrollment Fee'	\05 Aug,2015
+Mr. Admin\	edit service 'Administration Fee'	\05 Aug,2015
+Mr. Admin\	add service 'Term tuition fee '	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai68'	\05 Aug,2015
+Mr. Admin\	admission student 'Jackson Jane'	\05 Aug,2015
+Mr. Admin\	admission student 'Jackson ll'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai70'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai71'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai71'	\05 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai71'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	edit student 'Jackson Kennedy'	\05 Aug,2015
+Mr. Admin\	enroll student 'Jackson Jim'	\07 Aug,2015
+Mr. Admin\	delete student ''	\07 Aug,2015
+Mr. Admin\	enroll student 'Jackson Jim'	\07 Aug,2015
+Mr. Admin\	edit student 'Jackson Jim'	\07 Aug,2015
+Mr. Admin\	edit student 'Jackson Jim'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	enroll student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\07 Aug,2015
+Mr. Admin\	admission student 'asdf Jame'	\07 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\07 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\07 Aug,2015
+Mr. Admin\	admission student 'asdf sdfec'	\08 Aug,2015
+Mr. Admin\	admission student 'Jackson Jim'	\08 Aug,2015
+Mr. Admin\	admission student 'George Jame'	\08 Aug,2015
+Mr. Admin\	admission student 'Tang Jame'	\08 Aug,2015
+Mr. Admin\	admission student 'Tang Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'asdf sdfec'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'George Jame'	\08 Aug,2015
+Mr. Admin\	edit student 'Alan Jame'	\08 Aug,2015
+Mr. Admin\	delete class ''	\11 Aug,2015
+Mr. Admin\	delete class ''	\11 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	admission student 'ss ll'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\12 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'ss ll'	\13 Aug,2015
+Mr. Admin\	enroll student 'Tang Jame'	\13 Aug,2015
+Mr. Admin\	enroll student 'Tang Jame'	\13 Aug,2015
+Mr. Admin\	enroll student 'Tang Jame'	\13 Aug,2015
+Mr. Admin\	enroll student 'Tang Jame'	\13 Aug,2015
+Mr. Admin\	enroll student 'Tang Jame'	\13 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai76'	\14 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai76'	\14 Aug,2015
+Mr. Admin\	add employee 'JameGeorge'	\17 Aug,2015
+Mr. Admin\	add employee 'JameBlunt'	\17 Aug,2015
+Mr. Admin\	add employee 'SovannHeng'	\17 Aug,2015
+Mr. Admin\	add employee 'hourHeng'	\17 Aug,2015
+Mr. Admin\	add employee 'hengHeng'	\17 Aug,2015
+Mr. Admin\	add employee 'JameHeng'	\17 Aug,2015
+Mr. Admin\	add employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	add employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	update employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	update employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	update employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	update employee 'JaneHeng'	\17 Aug,2015
+Mr. Admin\	delete student 'Jack john'	\18 Aug,2015
+Mr. Admin\	add employee 'AlanSmith'	\18 Aug,2015
+Mr. Admin\	add employee 'phasHeng'	\18 Aug,2015
+Mr. Admin\	add employee 'leapChhin'	\18 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\18 Aug,2015
+Mr. Admin\	update employee 'SomphasHeng'	\21 Aug,2015
+Mr. Admin\	add employee 'sopheapHeng'	\22 Aug,2015
+Mr. Admin\	add employee 'SomphasHeng'	\22 Aug,2015
+Mr. Admin\	add employee 'JohnJackson'	\22 Aug,2015
+Mr. Admin\	admission student 'sadfsdaf123 adsfsdf'	\23 Aug,2015
+Mr. Admin\	edit student 'Jack john'	\23 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\23 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\23 Aug,2015
+Mr. Admin\	update employee 'JohnJack'	\23 Aug,2015
+Mr. Admin\	update employee 'JohnJack'	\23 Aug,2015
+Mr. Admin\	admission student 'Smith Alex'	\25 Aug,2015
+Mr. Admin\	edit student 'Smith Alex'	\25 Aug,2015
+Mr. Admin\	edit student 'Smith Alex'	\25 Aug,2015
+Mr. Admin\	edit student 'Smith Alex'	\25 Aug,2015
+Mr. Admin\	add employee 'LT'	\25 Aug,2015
+Mr. Admin\	update employee 'LLTT'	\25 Aug,2015
+Mr. Admin\	add new book 'Harry Potter '	\25 Aug,2015
+Mr. Admin\	delete a borrow info 	\25 Aug,2015
+Mr. Admin\	delete a borrow info 	\25 Aug,2015
+Mr. Admin\	delete a borrow info 	\25 Aug,2015
+Mr. Admin\	add employee 'tetsttest '	\25 Aug,2015
+Mr. Admin\	add employee 'tetsttest 11'	\25 Aug,2015
+Mr. Admin\	note attendance of class'Grade 3'	\25 Aug,2015
+Mr. Admin\	note borrow book of student 'Smith Alex'	\25 Aug,2015
+Mr. Admin\	add service 'Uniform'	\25 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai'	\25 Aug,2015
+Mr. Admin\	admission student 'Jackson Adam'	\25 Aug,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note attendance of class'Preschool'	\26 Aug,2015
+Mr. Admin\	note borrow book of student 'Jackson Adam'	\27 Aug,2015
+Mr. Admin\	note borrow book of student 'Smith Alex'	\27 Aug,2015
+Mr. Admin\	note borrow book of student 'Smith Alex'	\27 Aug,2015
+Mr. Admin\	add employee 'testtest'	\27 Aug,2015
+Mr. Admin\	add employee 'test1test'	\27 Aug,2015
+Mr. Admin\	add employee 'test1test'	\27 Aug,2015
+Mr. Admin\	edit student 'Smith Alex'	\27 Aug,2015
+Mr. Admin\	add employee 'spHeng'	\28 Aug,2015
+Mr. Admin\	update employee 'spHeng'	\28 Aug,2015
+Mr. Admin\	add employee 'JameJackson'	\28 Aug,2015
+Mr. Admin\	add employee 'LT'	\30 Aug,2015
+Mr. Admin\	add employee 'LT'	\30 Aug,2015
+Mr. Admin\	add employee 'LT'	\30 Aug,2015
+Mr. Admin\	add employee 'sokHeng'	\31 Aug,2015
+Mr. Admin\	delete class ''	\01 Sep,2015
+Mr. Admin\	delete class ''	\01 Sep,2015
+Mr. Admin\	edit student 'HOR SAMBATMALYNA'	\01 Sep,2015
+Mr. Admin\	edit student 'HOR SAMBATMALYNA'	\01 Sep,2015
+Mr. Admin\	edit student 'THUN ETHAN SOVISAL'	\01 Sep,2015
+Mr. Admin\	edit student 'THUN ETHAN SOVISAL'	\01 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\02 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai77'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai53'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai41'	\03 Sep,2015
+Mr. Admin\	add employee 'RenSe'	\03 Sep,2015
+Mr. Admin\	delete employee 'RenSe'	\03 Sep,2015
+Mr. Admin\	add employee 'SomphasHeng'	\03 Sep,2015
+Mr. Admin\	add employee 'Ltest'	\03 Sep,2015
+Mr. Admin\	delete employee 'Ltest'	\03 Sep,2015
+Mr. Admin\	add employee 'LT'	\03 Sep,2015
+Ltest\	note attendance of class'Grade 5'	\03 Sep,2015
+Ltest\	note attendance of class'Grade 5'	\03 Sep,2015
+Mr. Admin\	admission student 'abcd efg'	\04 Sep,2015
+Mr. Admin\	admission student 'abcd efg'	\04 Sep,2015
+Mr. Admin\	admission student 'T chinna'	\04 Sep,2015
+Mr. Admin\	edit student 'HOR SAMBATMALYNA'	\04 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\04 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\04 Sep,2015
+Mr. Admin\	add employee 'adsfasfo'	\04 Sep,2015
+Mr. Admin\	add employee 'adsfasfo'	\04 Sep,2015
+Mr. Admin\	delete employee 'adsfasfo'	\04 Sep,2015
+Mr. Admin\	update employee 'adsfaok'	\04 Sep,2015
+Mr. Admin\	update employee 'eeeok'	\04 Sep,2015
+Mr. Admin\	update employee ''	\04 Sep,2015
+Mr. Admin\	enroll student 'HOR SAMBATMALYNA'	\07 Sep,2015
+Mr. Admin\	enroll student 'HOR SAMBATMALYNA'	\07 Sep,2015
+Mr. Admin\	enroll student 'HOR SAMBATMALYNA'	\07 Sep,2015
+Mr. Admin\	enroll student 'HOR SAMBATMALYNA'	\07 Sep,2015
+Mr. Admin\	admission student 'Tang Ly'	\08 Sep,2015
+Mr. Admin\	admission student 'a b'	\08 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\09 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\09 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\09 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\09 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\09 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\10 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\10 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\10 Sep,2015
+Mr. Admin\	edit service 'Registration Fee'	\16 Sep,2015
+Mr. Admin\	edit service 'Registration Fee'	\16 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai95'	\16 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai95'	\16 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai95'	\16 Sep,2015
+Mr. Admin\	edit service 'School Uniform '	\17 Sep,2015
+Mr. Admin\	edit service 'School T-shirt'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\17 Sep,2015
+Mr. Admin\	Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	note score of subject''	\18 Sep,2015
+Mr. Admin\	Mr. Admin\	Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	update score of subject''	\19 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	note score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	update score of subject''	\21 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\22 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\22 Sep,2015
+Mr. Admin\	admission student 'Test test'	\23 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\23 Sep,2015
+Mr. Admin\	note score of subject''	\23 Sep,2015
+Mr. Admin\	note score of subject''	\23 Sep,2015
+Mr. Admin\	note score of subject''	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai96'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai94'	\23 Sep,2015
+Mr. Admin\	add employee 'testt'	\23 Sep,2015
+Mr. Admin\	admission student 'tang ll'	\24 Sep,2015
+Mr. Admin\	edit student 'tang ll'	\25 Sep,2015
+Mr. Admin\	admission student 'tt t'	\25 Sep,2015
+Mr. Admin\	edit student 'tt t'	\25 Sep,2015
+Mr. Admin\	enroll student 'tang ll'	\25 Sep,2015
+Mr. Admin\	delete student ''	\25 Sep,2015
+Mr. Admin\	admission student 'test t'	\25 Sep,2015
+Mr. Admin\	edit student 'test t'	\25 Sep,2015
+Mr. Admin\	edit student 'test t'	\25 Sep,2015
+Mr. Admin\	edit student 'test t'	\25 Sep,2015
+Mr. Admin\	edit student 'test t'	\25 Sep,2015
+Mr. Admin\	note attendance of class'Grade 5'	\25 Sep,2015
+Mr. Admin\	note attendance of class'Grade 1'	\25 Sep,2015
+Mr. Admin\	note attendance of class'Grade 2'	\25 Sep,2015
+Mr. Admin\	note score of subject''	\25 Sep,2015
+Mr. Admin\	update score of subject''	\25 Sep,2015
+Mr. Admin\	update score of subject''	\25 Sep,2015
+Mr. Admin\	update score of subject''	\25 Sep,2015
+Mr. Admin\	update score of subject''	\25 Sep,2015
+Mr. Admin\	update score of subject''	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai102'	\25 Sep,2015
+Mr. Admin\	add employee 'bbbaaa'	\25 Sep,2015
+Mr. Admin\	add employee 'tttest full '	\25 Sep,2015
+RenSe\	add service to invoice '#tsiai87'	\27 Sep,2015
+RenSe\	add service to invoice '#tsiai87'	\27 Sep,2015
+RenSe\	add service to invoice '#tsiai87'	\27 Sep,2015
+RenSe\	add service to invoice '#tsiai87'	\27 Sep,2015
+RenSe\	add service to invoice '#tsiai87'	\27 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\27 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\27 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\27 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\27 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai87'	\27 Sep,2015
+LT\	admission student 'ddsf eee'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\27 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\27 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\27 Sep,2015
+Ltest\	note attendance of class'Preschool'	\28 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\28 Sep,2015
+Ltest\	note attendance of class'Preschool'	\28 Sep,2015
+Ltest\	note score of subject''	\28 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Grade 3'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Preschool'	\28 Sep,2015
+Mr. Admin\	add employee 'tTest'	\28 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\28 Sep,2015
+Ltest\	note attendance of class'Preschool'	\28 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\28 Sep,2015
+Ltest\	note attendance of class'Preschool'	\28 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\28 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\28 Sep,2015
+Ltest\	note attendance of class'Grade 4'	\28 Sep,2015
+Ltest\	note score of subject''	\28 Sep,2015
+Mr. Admin\	add new book 'Harry Potter '	\29 Sep,2015
+Mr. Admin\	delete student ''	\29 Sep,2015
+Mr. Admin\	delete student ''	\29 Sep,2015
+Mr. Admin\	admission student 'test  tes'	\30 Sep,2015
+Mr. Admin\	note attendance of class'Grade 5'	\30 Sep,2015
+Mr. Admin\	note attendance of class'Grade 3'	\30 Sep,2015
+Mr. Admin\	note attendance of class'Grade 4'	\30 Sep,2015
+Mr. Admin\	note attendance of class'Pre-k'	\30 Sep,2015
+Mr. Admin\	add service 'test'	\30 Sep,2015
+Mr. Admin\	edit service 'test'	\30 Sep,2015
+Mr. Admin\	update class 'Grade 6'	\30 Sep,2015
+Mr. Admin\	update class 'Grade 6K'	\30 Sep,2015
+Mr. Admin\	delete class ''	\30 Sep,2015
+Mr. Admin\	note score of subject''	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add service to invoice '#tsiai104'	\30 Sep,2015
+Mr. Admin\	add employee 'Lttt'	\30 Sep,2015
+Mr. Admin\	update employee 'Lttt'	\30 Sep,2015
+Mr. Admin\	delete employee 'Lttt'	\30 Sep,2015
+Mr. Admin\	add new book 'Funny life'	\30 Sep,2015
+Mr. Admin\	edit book 'Funny life'	\30 Sep,2015
+Mr. Admin\	edit book 'Cheerful life'	\30 Sep,2015
+Mr. Admin\	edit book 'Cheerful life'	\30 Sep,2015
+Mr. Admin\	delete book 'Cheerful life'	\30 Sep,2015
+Mr. Admin\	note borrow book of student 'test  tes'	\30 Sep,2015
+Mr. Admin\	delete a borrow info 	\30 Sep,2015
+Mr. Admin\	note borrow book of student 'test  tes'	\30 Sep,2015
+Mr. Admin\	delete a borrow info 	\30 Sep,2015
+Mr. Admin\	note borrow book of student 'test  tes'	\30 Sep,2015
+Mr. Admin\	delete a borrow info 	\30 Sep,2015
+Mr. Admin\	note borrow book of student 'test  tes'	\30 Sep,2015
+Mr. Admin\	note borrow book of student 'tang ll'	\30 Sep,2015
+Mr. Admin\	note return book of student'tang ll'	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	note score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	update score of subject''	\30 Sep,2015
+Mr. Admin\	note score of subject''	\30 Sep,2015
+Mr. Admin\	note score of subject''	\30 Sep,2015
+LT\	admission student 'admin test 1'	\30 Sep,2015
+LT\	edit student 'admin test 1'	\30 Sep,2015
+LT\	edit student 'admin test 1'	\30 Sep,2015
+LT\	add new book 'test'	\30 Sep,2015
+LT\	edit book 'test book 1'	\30 Sep,2015
+LT\	delete book 'test book 1'	\30 Sep,2015
+LT\	note borrow book of student 'test  tes'	\30 Sep,2015
+LT\	note return book of student'test  tes'	\30 Sep,2015
+LT\	note borrow book of student 'admin test 1'	\30 Sep,2015
+LT\	delete a borrow info 	\30 Sep,2015
+LT\	delete student ''	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	add service to invoice '#tsiai93'	\30 Sep,2015
+RenSe\	admission student 'account test 1'	\30 Sep,2015
+Mr. Admin\	add employee 'JameT'	\01 Oct,2015
+Mr. Admin\	add employee 'jT'	\01 Oct,2015
+Mr. Admin\	add employee 'mT'	\01 Oct,2015
+Mr. Admin\	add employee 'mMeas'	\01 Oct,2015
+Mr. Admin\	add employee 'mBlunt'	\01 Oct,2015
+Mr. Admin\	add employee 'kBlunt'	\01 Oct,2015
+Mr. Admin\	add employee 'kBlunt'	\01 Oct,2015
+Mr. Admin\	add employee 'kBlunt'	\01 Oct,2015
+Mr. Admin\	note score of subject''	\14 Oct,2015
+Mr. Admin\	note score of subject''	\14 Oct,2015
+Mr. Admin\	update score of subject''	\14 Oct,2015
+Mr. Admin\	update score of subject''	\14 Oct,2015
+Mr. Admin\	note score of subject''	\15 Oct,2015
+Mr. Admin\	note score of subject''	\15 Oct,2015
+Mr. Admin\	update score of subject''	\15 Oct,2015
+Mr. Admin\	note score of subject''	\15 Oct,2015
+Mr. Admin\	update score of subject''	\15 Oct,2015
+Mr. Admin\	update score of subject''	\15 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\16 Oct,2015
+Mr. Admin\	update score of subject''	\16 Oct,2015
+Mr. Admin\	update score of subject''	\16 Oct,2015
+Mr. Admin\	update score of subject''	\16 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	update score of subject''	\17 Oct,2015
+Mr. Admin\	note score of subject''	\17 Oct,2015
+Mr. Admin\	admission student 'Test a'	\26 Oct,2015
+Mr. Admin\	add service 'Book'	\26 Oct,2015
+Mr. Admin\	note score of subject''	\26 Oct,2015
+Mr. Admin\	update score of subject''	\26 Oct,2015
+Mr. Admin\	delete service 'Book'	\27 Oct,2015
+Mr. Admin\	add service 'Book'	\27 Oct,2015
+Mr. Admin\	admission student 'Test student'	\28 Oct,2015
+Mr. Admin\	enroll student 'HOR SAMBATMALYNA'	\28 Oct,2015
+Mr. Admin\	delete student ''	\28 Oct,2015

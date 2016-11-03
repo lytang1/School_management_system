@@ -1,0 +1,27 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	text-transform: capitalize;
+}
+.nulltop-padding{
+	padding-top:0 !important
+}
+.large-font-strong{
+	font-size: 15px;
+	font-weight: bold;	
+}.data{
+		margin:12px 15px 12px 15px;
+	}
+.filter-label{
+	padding-top:5px;
+}.action-button{
+	margin-right:10px;
+}.quantity-input{
+	width:34px;
+}.tb-clickable{
+	cursor: pointer;
+}
